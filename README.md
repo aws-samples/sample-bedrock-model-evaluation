@@ -18,7 +18,7 @@ This repository contains a Streamlit application designed to help you interact w
 
 ```bash
 # Clone the repository
-git clone https://github.com/svetozarm/bedrock-model-testing.git
+git clone https://github.com/aws-samples/sample-bedrock-model-evaluation.git
 cd bedrock-model-testing
 
 # Create a virtual environment
