@@ -6,6 +6,9 @@ A streamlit application for testing and comparing AWS Bedrock AI models.
 
 This repository contains a Streamlit application designed to help you interact with and evaluate different AWS Bedrock foundation models. It allows for side-by-side comparison of model outputs and performance assessment.
 
+![Screenshot of the app](img/screenshot.png?raw=true "Application screenshot")
+
+
 ## Features
 
 - Test multiple AWS Bedrock models simultaneously
